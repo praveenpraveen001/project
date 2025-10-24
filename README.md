@@ -11,8 +11,9 @@ It makes work faster, reduces mistakes, and helps doctors give better care to pa
 3. Location-Based Suggestions Finds nearby hospitals or clinics automatically.
 4. Digital Health Records Securely stores previous prescriptions, reports, and appointment history.
 5. Smart Notifications  Sends reminders for appointments, medicines, and follow-ups.
-6. Teleconsultation Allows video consultations when physical visits are not possible.7.  Doctor Dashboard Enables doctors to manage schedules, patient records, and consultations.
-8.  # Tech used
+6. Teleconsultation Allows video consultations when physical visits are not possible.
+7.  Doctor Dashboard Enables doctors to manage schedules, patient records, and consultations.
+ Tech used
 1. Backend – Node.js/Express
 2. Front-End
 3. Database
